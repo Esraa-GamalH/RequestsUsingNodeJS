@@ -4,7 +4,7 @@ A simple to-do list application built with Node.js, Express, and MySQL.
 
 ## Screenshots
 
-![Features](demo/Get_item_by_ID.JPG)
+![Features](demo/Get_Items.JPG)
 
 ---
 ![Features](demo/Get_item_by_ID.JPG)
