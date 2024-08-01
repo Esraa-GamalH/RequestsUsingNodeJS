@@ -19,7 +19,7 @@ A simple to-do list application built with Node.js, Express, and MySQL.
 ![Features](demo/update_item.JPG)
 
 ---
-
+![Features](demo/errorHandling_inPUT.JPG)
 
 ---
 ![Features](demo/delete_item.JPG)
